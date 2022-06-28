@@ -1,9 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
-import HomePage from './pages/HomePage/HomePage';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Home from './pages/Home';
 import NavBar from './componants/NavBar/NavBar';
+import Button from 'react-bootstrap/Button';
+import Col from 'react-bootstrap/Col';
+import Row from 'react-bootstrap/Row';
+import { Nav } from './componants/Nav/Nav';
 
 function App() {
   return (
