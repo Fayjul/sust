@@ -38,7 +38,11 @@ const NavBar = () => {
           <div class="navbar p-0 navbar-expand-lg">
             <div class="navbar-brand">
               <a class="logo-default" href="index.html">
-                <img alt="" src="assets/img/sust-logo.png" />
+                <img
+                  alt=""
+                  style={{ height: 100 }}
+                  src="assets/img/sust-logo.png"
+                />
                 <img alt="" src="assets/img/sust_name.png" />
               </a>
             </div>
